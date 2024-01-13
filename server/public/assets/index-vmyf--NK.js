@@ -11598,7 +11598,7 @@ async function Ih(e) {
     await ne.setLocalDescription(t), U.emit("answer", t, Ke);
 }
 function Bh() {
-    (U = br("https://a2d0-49-204-19-149.ngrok-free.app")),
+    (U = br("https://videochat.iusecookies64.xyz")),
         U.on("connect", () => {
             console.log("connected to socket"), mf(), U.emit("joinLobby");
         }),
